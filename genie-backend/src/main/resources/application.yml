@@ -45,7 +45,7 @@ logging:
 llm:
   default:
     base_url: 'https://api.deepseek.com/v1'
-    apikey: 'sk-91f66ceec35f468aa38c539331fdef48'
+    apikey: ''
     interface_url: '/chat/completions'
     model: deepseek-chat
     max_tokens: 8192
